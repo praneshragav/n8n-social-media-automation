@@ -7,7 +7,7 @@ This project automatically posts content to social media when a trigger event oc
 - n8n
 - Webhook Trigger
 - LinkedIn API
-- Google Sheets (if used)
+- Google Sheets 
 
 ## How It Works
 Trigger → Content Formatting → Social Media Post
